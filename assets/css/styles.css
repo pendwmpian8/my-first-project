@@ -6,3 +6,7 @@ body{background-color:lightgrey;
 h1, h2{
     color:orangered
 }
+
+p{
+    font-weight:bold
+}
